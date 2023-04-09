@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/16502/Documents/Unreal Projects/WareHouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/16502/Documents/Unreal Projects/WareHouseWreckage/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/16502/Documents/Unreal Projects/WareHouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/16502/Documents/Unreal Projects/WareHouseWreckage/Content/Bp_blueprint.uasset",
+				"C:/Users/16502/Documents/Unreal Projects/WareHouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/16502/Documents/Unreal Projects/WareHouseWreckage/Content/Main.umap",
+				"C:/Users/16502/Documents/Unreal Projects/WareHouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/16502/Documents/Unreal Projects/WareHouseWreckage/Content/Bp_Barrel.uasset",
+				"C:/Users/16502/Documents/Unreal Projects/WareHouseWreckage/Content/Main.umap"
+			]
+		}
+	]
+}
